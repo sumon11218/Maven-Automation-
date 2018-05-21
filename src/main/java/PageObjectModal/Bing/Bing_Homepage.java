@@ -56,7 +56,7 @@ public class Bing_Homepage extends AbstractMethods{
             getScreenshot(driver,logger);
         }
 
-        return new Bing_Homepage(driver,logger);
+        return new Bing_Homepage(driver,logger);//abc
     }
 
 
