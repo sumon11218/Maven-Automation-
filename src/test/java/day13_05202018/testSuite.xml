@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+    <parameter name="browser" value="firefox" />
+    <test name="Chrome Test">
+        <classes>
+            <class name="PageObjectModal.Bing.TestCases.TC1_Google_Search_Result" />
+        </classes>
+    </test>
+</suite>
+
