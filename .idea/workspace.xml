@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ccac9b-4257-464b-8b17-1be84be99367" name="Default" comment="" />
+    <list default="true" id="80ccac9b-4257-464b-8b17-1be84be99367" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/day14_05262018/fedEx_Print.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/PageObjectModal/AbstractMethods.class" afterPath="$PROJECT_DIR$/target/classes/PageObjectModal/AbstractMethods.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/PageObjectModal/Bing/Bing_Homepage.class" afterPath="$PROJECT_DIR$/target/classes/PageObjectModal/Bing/Bing_Homepage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/reusables/reusableMethods_Report.class" afterPath="$PROJECT_DIR$/target/classes/reusables/reusableMethods_Report.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java" afterPath="$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java" afterPath="$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml" afterPath="$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Automation Suite/Chrome Test.html" afterPath="$PROJECT_DIR$/test-output/Automation Suite/Chrome Test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Automation Suite/Chrome Test.xml" afterPath="$PROJECT_DIR$/test-output/Automation Suite/Chrome Test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Automation Suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Automation Suite/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Automation Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Automation Suite/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Automation Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Automation Suite/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Automation Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Automation Suite/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Automation Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Automation Suite/testng.xml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Automation Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Automation Suite/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bing_Homepage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectModal/Bing/Bing_Homepage.java">
+      <file leaf-file-name="fedEx_Print.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/day14_05262018/fedEx_Print.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="197">
+              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,23 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TC1_Google_Search_Result.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Bing_Test_Cases/TC1_Google_Search_Result.java">
+      <file leaf-file-name="reusableMethods_Report.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="202">
+              <caret line="145" column="27" lean-forward="false" selection-start-line="145" selection-start-column="27" selection-end-line="145" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bingTestSuite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Bing_Test_Cases/bingTestSuite.xml">
+      <file leaf-file-name="AbstractMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="26">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -54,8 +74,8 @@
       <file leaf-file-name="testSuite.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -115,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/test/java/day12_XmlSuite_05192018/AbtractClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/day12_XmlSuite_05192018/Suite2.xml" />
         <option value="$PROJECT_DIR$/src/test/java/day12_XmlSuite_05192018/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java" />
         <option value="$PROJECT_DIR$/src/test/java/day13_05202018/ExpressTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/day13_05202018/AbstractClass.java" />
@@ -124,16 +143,18 @@
         <option value="$PROJECT_DIR$/src/test/java/PageObjectModal/AbstractMethods.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObjectModal/Google/google_Homepage.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObjectModal/Google/TestCases/TC1_Google_Search_Result.java" />
-        <option value="$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjects/AbstractWebDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjects/AbstractMethods.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/Google/google_Homepage.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/Bing/google_Homepage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Bing_Test_Cases/TC1_Google_Search_Result.java" />
         <option value="$PROJECT_DIR$/src/test/java/Bing_Test_Cases/bingTestSuite.xml" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/Bing/Bing_Homepage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java" />
+        <option value="$PROJECT_DIR$/src/test/java/day14_05262018/fedEx_Print.java" />
       </list>
     </option>
   </component>
@@ -159,9 +180,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="-11" />
+    <option name="y" value="-2" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -180,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,58 +251,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day13_05202018" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven_Selenium_Automation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven_Selenium_Automation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bing_Test_Cases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven_Selenium_Automation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven_Selenium_Automation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -304,6 +274,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reusables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,6 +347,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven_Selenium_Automation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven_Selenium_Automation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -380,7 +376,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml">
     <configuration default="false" name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day12_XmlSuite_05192018/ParallelSuite.xml" type="TestNG" factoryName="TestNG" temporary="true" show_console_on_std_out="true" show_console_on_std_err="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" track_test_folders="true" runner="idea" />
       <module name="Maven_Selenium_Automation" />
@@ -843,8 +838,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day12_XmlSuite_05192018/Suite2.xml" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day12_XmlSuite_05192018/Suite.xml" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day12_XmlSuite_05192018/ParallelSuite.xml" />
@@ -862,47 +857,55 @@
       <option name="presentableId" value="Default" />
       <updated>1525539415865</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1526930287267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526930287267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_Bing_Test_Cases_bingTestSuite_xml - 2018.05.20 at 23h 10m 44s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_Bing_Test_Cases_bingTestSuite_xml - 2018.05.20 at 23h 14m 58s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_Bing_Test_Cases_bingTestSuite_xml - 2018.05.20 at 23h 16m 24s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_Bing_Test_Cases_bingTestSuite_xml - 2018.05.20 at 23h 18m 23s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_Bing_Test_Cases_bingTestSuite_xml - 2018.05.20 at 23h 25m 14s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/Bing_Test_Cases/bingTestSuite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day12_XmlSuite_05192018_Suite2_xml - 2018.05.19 at 23h 01m 24s.xml">
-      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day12_XmlSuite_05192018/Suite2.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.20 at 12h 03m 44s.xml">
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 01h 43m 41s.xml">
       <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.20 at 12h 05m 00s.xml">
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 01h 48m 03s.xml">
       <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.20 at 12h 08m 33s.xml">
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 01h 49m 28s.xml">
       <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.20 at 13h 59m 55s.xml">
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 02m 57s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 09m 39s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 21m 01s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 25m 26s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 26m 03s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 33m 12s.xml">
+      <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sumon_kashem_Desktop_Maven_Selenium_Automation_src_test_java_day13_05202018_testSuite_xml - 2018.05.26 at 02h 34m 33s.xml">
       <configuration name="C:/Users/sumon.kashem/Desktop/Maven_Selenium_Automation/src/test/java/day13_05202018/testSuite.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-2" width="1378" height="744" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -914,7 +917,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26701966" sideWeight="0.49283153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23216996" sideWeight="0.49283153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -925,13 +928,16 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -942,14 +948,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3432">
@@ -1204,7 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1213,9 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1229,16 +1223,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModal/Google/TestCases/TC1_Google_Search_Result.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/AbstractWebDriver.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -1247,26 +1231,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="65" column="9" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="65" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Bing_Test_Cases/bingTestSuite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,16 +1242,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectModal/Bing/Bing_Homepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="379">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectModal/AbstractMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableMethods_Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="145" column="27" lean-forward="false" selection-start-line="145" selection-start-column="27" selection-end-line="145" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day13_05202018/testSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/day14_05262018/fedEx_Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

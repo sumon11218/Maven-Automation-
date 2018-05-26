@@ -4,15 +4,15 @@
   <parameter name="browser" value="chrome"/>
   <test thread-count="5" name="Chrome Test(failed)">
     <classes>
-      <class name="Bing_Test_Cases.TC1_Google_Search_Result">
+      <class name="day14_05262018.fedEx_Print">
         <methods>
           <include name="defineBrowser"/>
-          <include name="GoogleSearchResult"/>
+          <include name="fedExPrint"/>
           <include name="endSuite"/>
           <include name="endTest"/>
           <include name="methodName"/>
         </methods>
-      </class> <!-- Bing_Test_Cases.TC1_Google_Search_Result -->
+      </class> <!-- day14_05262018.fedEx_Print -->
     </classes>
   </test> <!-- Chrome Test(failed) -->
 </suite> <!-- Failed suite [Automation Suite] -->

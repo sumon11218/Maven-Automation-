@@ -11,6 +11,9 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.awt.*;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
@@ -134,7 +137,26 @@ public class reusableMethods_Report {
         logger.log(LogStatus.FAIL, "", image);
     }
 
+    public static void upLoadFielWithRobot(WebDriver driver, String filePath, ExtentTest logger) throws AWTException {
+        logger.log(LogStatus.INFO,"Uploading a File using Robot Command");
+        //file location
+        StringSelection ss = new StringSelection(filePath);
+        //use tool kit option to store file
+        Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+        Robot robot = new Robot();
+        robot.delay(1000);
+        //This step clicks on 'Browse' button
+        robot.keyPress(KeyEvent.VK_ENTER);
+        //This step clicks on 'File name' textbox
+        robot.keyPress(KeyEvent.VK_ENTER);
+        //Next two steps does "Ctrl+V"
+        robot.keyPress(KeyEvent.VK_CONTROL);
+        robot.keyPress(KeyEvent.VK_V);
+        //This step clicks on 'Open' button
+        robot.keyPress(KeyEvent.VK_ENTER);
+        robot.keyPress(KeyEvent.VK_ENTER);
 
+    }
 
 
 }//end of class

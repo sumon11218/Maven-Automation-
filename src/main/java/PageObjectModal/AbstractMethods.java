@@ -62,7 +62,7 @@ public abstract class AbstractMethods {
         //close the report
         reports.close();
         //quit the driver
-        driver.quit();
+       // driver.quit();
     }
 
 

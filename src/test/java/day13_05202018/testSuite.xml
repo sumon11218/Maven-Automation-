@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Automation Suite">
-    <parameter name="browser" value="firefox" />
+    <parameter name="browser" value="chrome" />
     <test name="Chrome Test">
         <classes>
-            <class name="PageObjectModal.Bing.TestCases.TC1_Google_Search_Result" />
+            <class name="day14_05262018.fedEx_Print" />
         </classes>
     </test>
 </suite>
